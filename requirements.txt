@@ -1,0 +1,13 @@
+customtkinter
+opencv-python
+ultralytics
+SpeechRecognition
+pyttsx3
+requests
+geopy
+networkx
+google-generativeai
+pillow
+twilio
+folium
+pyaudio
